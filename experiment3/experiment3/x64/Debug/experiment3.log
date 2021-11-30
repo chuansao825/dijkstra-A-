@@ -1,0 +1,28 @@
+﻿  edge.cpp
+D:\作业\算法\experiment3\experiment3\source code\edge.cpp(12,14): warning C4305: “=”: 从“__int64”到“double”截断
+  graph.cpp
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(7,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(14,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(17,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(18,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(30,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(31,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(32,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(47,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(49,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(54,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(65,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(66,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(67,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(70,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(84,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(85,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(86,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\算法\experiment3\experiment3\source code\graph.cpp(92,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  PQ.cpp
+  PQ2.cpp
+  shortestpath.cpp
+D:\作业\算法\experiment3\experiment3\source code\shortestpath.cpp(15,18): warning C4305: “=”: 从“__int64”到“double”截断
+  vertex.cpp
+  正在生成代码...
